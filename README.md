@@ -2,4 +2,5 @@ demo_git
 ========
 
 Une demo de Git
-bla
+
+Et maintenant une modif depuis GitHub
